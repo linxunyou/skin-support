@@ -28,12 +28,17 @@ dependencies {
 **以下是原作者说明**
 
 LittleFogCat commented on Mar 18, 2022 • 
+
 我给拉过来改了一下，https://github.com/LittleFogCat/skin-support，现在最高支持版本：
 
 appcompat 1.4.1
+
 material 1.5.0
+
 constraintlayout 2.1.3
+
 cardview 1.0.0
+
 急的可以暂时用用，做权益之举。
 
 
